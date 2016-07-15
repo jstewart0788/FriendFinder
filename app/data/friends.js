@@ -1,4 +1,4 @@
-//data
+//database of friends
 var  friendData =
 [
 	{
